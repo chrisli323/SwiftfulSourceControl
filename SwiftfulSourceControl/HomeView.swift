@@ -9,14 +9,19 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        VStack {
-            Text("Screen 2")
-                .font(.largeTitle)
+        ZStack {
             
-            Text("Hello!")
+            Color.gray.ignoresSafeArea()
             
-            Text("Screen 2")
-                .font(.largeTitle)
+            VStack {
+                Text("Screen 2")
+                    .font(.largeTitle)
+                
+                Text("Hello!")
+                
+                Text("Screen 2")
+                    .font(.largeTitle)
+            }
         }
     }
 }
