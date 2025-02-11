@@ -6,22 +6,24 @@
 //
 
 /*
+ 
  COMMIT MESSAGES
  
  NEW FEATURE:
  [Feature] Description of the feature
  
- BUG IN PRODUCTION:
- [Patch] Description of patch
- 
  BUG NOT IN PRODUCTION:
  [Bug] Description of bug
  
- MUNDANE TASKS:
- [Clean] Descriptioin of changes
- 
  RELEASE:
  [Release] Description of release
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of patch
+ 
+ MUNDANE TASKS:
+ [Clean] Descriptioin of changes
+
   */
 
 import SwiftUI
