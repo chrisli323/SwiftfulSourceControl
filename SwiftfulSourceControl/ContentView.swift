@@ -46,7 +46,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Wusssup!")
             
-            Button("Subscribe") {
+            Button("Subscribe Now!!!") {
                 
             }
             .foregroundStyle(.white)
