@@ -1,0 +1,16 @@
+# This is a CODEOWNERS file for GitHub
+# The listed user will be the owner of the specified files or directories
+
+# Set chrisli323 as the owner of all files in the repository
+* @chrisli323
+
+# Example: Set a specific owner for a folder
+# /folder-name/ @username
+
+# Example: Set different owners for specific files
+# /path/to/file.ext @username1 @username2
+
+# Example: Assign multiple owners to a directory
+# /another-folder/ @user1 @user2
+
+# Note: Ensure that usernames listed are valid GitHub usernames
